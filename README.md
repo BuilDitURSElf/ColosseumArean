@@ -1,2 +1,2 @@
 # ColosseumArean
-A 2D fighting game that maintain pvp setting
+A 2D fighting game that exhibit PVP setting
